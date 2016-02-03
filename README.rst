@@ -224,3 +224,9 @@ SEE ALSO
 
 .. |Build Status| image:: https://travis-ci.org/Runscope/httpbin.svg
    :target: https://travis-ci.org/Runscope/httpbin
+
+
+https://nextlocal.net
+https://nextlocal.io
+https://nextlocal.ca
+https://nextlocal.solar
